@@ -1,8 +1,8 @@
 <h2>👋 Cześć, tu Eryk 😄</h2>
 
-Jestem początkującym Front-end Developerem z Rzeszowa, zajarany "czystymi" iSetup'ami. 
+Jestem początkującym Front-end Developerem, szukającym teamu do którego mógłbym dołączyć 😄.
 
-Obecnie poszukuje pracy jako Junior/Mid Front-end developer, żeby rozwijać swoje umiejętności pracując w fajnym Teami'e.
+Tak jak w sporcie który kocham, lubię zdrowe współzadownictwo, wyznaczanie nowych celów, ale przede wszystkim 'podróż' i doświadczenia zbierane po drodze.
 
 Swój czas poza kodzeniem wypełniam trenując Traithlon 🏊🏻 🚴 🏃🏻.
 
