@@ -1,14 +1,28 @@
-<h2>👋 Cześć, tu Eryk 😄</h2>
+<h2>👋 Hi, I'm Eryk 😁</h2>
 
-Jestem początkującym Front-end Developerem, szukającym teamu do którego mógłbym dołączyć 😄.
+const aboutMe = 
+`I’m a rookie Front-end Developer, looking for a team to join.
 
-Tak jak w sporcie który kocham, lubię zdrowe współzadownictwo, wyznaczanie nowych celów, ale przede wszystkim 'podróż' i doświadczenia zbierane po drodze.
+Like in a sport which I love, new challenges is what makes me wanna work harder. The journey along the way is the most valuable.`
 
-Swój czas poza kodzeniem wypełniam trenując Traithlon 🏊🏻 🚴 🏃🏻.
+Beside coding
 
-http://erykszczepaniec.pl/
+const myInterests = [
+
+'Training and competing in <kbd>Triathlon</kbd> 🏊🏻 🚴 🏃🏻.' ,
+<br>
+'Music🎸' ,
+<br>
+'Road cycling'
+]
+<br>
+<br>
+Also you can check out my page ❗️.
+
+- [x] http://erykszczepaniec.pl/
 
 <!---
 szczepanieceryk/szczepanieceryk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ 
