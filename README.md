@@ -17,9 +17,7 @@ const myInterests = [
 ]
 <br>
 <br>
-Also you can check out my page ❗️.
 
-- [x] http://erykszczepaniec.pl/
 
 <!---
 szczepanieceryk/szczepanieceryk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
