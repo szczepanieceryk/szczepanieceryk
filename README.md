@@ -1,7 +1,7 @@
 <h2>👋 Hi, I'm Eryk 😁</h2>
 
 const aboutMe = 
-`I’m a rookie Front-end Developer, looking for a team to join.
+`I’m a Junior Front-end/Web Developer.
 
 Like in a sport which I love, new challenges is what makes me wanna work harder. The journey along the way is the most valuable.`
 
