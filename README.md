@@ -3,6 +3,8 @@
 const aboutMe = 
 `I’m a Junior Front-end/Web Developer.
 
+On a daily basis, I create and maintain web applications for optimizing photos and videos (compression, conversion, resize, watermark etc. )   
+
 Like in a sport which I love, new challenges is what makes me wanna work harder. The journey along the way is the most valuable.`
 
 Beside coding
