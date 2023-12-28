@@ -11,7 +11,7 @@ But I don't want to stop here 🛑.
 <br/>
 <br/>
 <br/>
-Are looking for a new person to join the team (partial / full time) ? , [Connect with me 📩 ](https://www.linkedin.com/in/eryk-szczepaniec-94509a207/).
+Are looking for a new person to join the team (partial / full time) ? , [Contact with me 📩 ](https://www.linkedin.com/in/eryk-szczepaniec-94509a207/).
 <br/>
 <br/>
 
