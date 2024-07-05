@@ -1,7 +1,7 @@
 <h2>👋 Hi, I'm Eryk 😁</h2>
 
 
-I’m a Junior Front-end/Web Developer.
+I’m a Front-end/Web Developer.
 <br/>
 <br/>
 On a daily basis, I create and maintain web applications for optimizing photos and videos.
