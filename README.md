@@ -25,7 +25,7 @@ Things I code with :
 <br/>
 <br/>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/SCSS-pink"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML%205-orange"> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/React%20JS-61DBFB"> <img alt="Static Badge" src="https://img.shields.io/badge/GIT-white"> <img alt="Static Badge" src="https://img.shields.io/badge/NPM-red"> <img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FTailwind-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML%205-orange"> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/React%20JS-61DBFB"> <img alt="Static Badge" src="https://img.shields.io/badge/GIT-white"> <img alt="Static Badge" src="https://img.shields.io/badge/NPM-red"> <img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow">
  <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code%20-blue">
 
 
