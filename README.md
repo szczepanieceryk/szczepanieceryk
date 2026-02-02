@@ -26,7 +26,7 @@ const eryk = {
 ## 💼 What I'm Working On
 
 🖼️ **Image Optimization Tools** - Web apps for batch image resizing and compression  
-🎬 **Video Processing Applications** - Web app for video optimization (compression / convertion / resize for socoial media platforms) 
+🎬 **Video Processing Tools** - Web app for video optimization (compression / convertion / resize for socoial media platforms) 
 
 ## 🛠️ Tech Stack
 
