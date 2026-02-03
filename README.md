@@ -44,6 +44,11 @@ const eryk = {
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=szczepanieceryk&theme=github_dark" width="45%"/>
+
+---
 
 ## 🏆 Featured Projects
 
