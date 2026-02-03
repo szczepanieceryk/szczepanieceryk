@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Eryk+Szczepaniec;Front-end+%2F+Web+Developer;Building+Video+%26+Image+Processing+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Eryk;Front-end+%2F+Web+Developer;Building+Video+%26+Image+Processing+Tools" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -60,14 +60,6 @@ Production Flask app for video processing with distributed computing via Compute
 Web application for batch image optimization
 - **Tech:** Flask, Pillow, JavaScript, Bootstrap
 - **Features:** Batch processing, format conversion, quality optimization
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=szczepanieceryk&theme=tokyo-night&hide_border=true&area=true)
-  
-</div>
 
 ## 💡 Fun Facts
 
