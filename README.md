@@ -50,7 +50,7 @@ const eryk = {
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Main Projects
 
 ### [Farluner](https://farluner.com/)
 Company landing page
